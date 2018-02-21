@@ -1,9 +1,0 @@
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\bin\WebApplication2.dll
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\bin\WebApplication2.pdb
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
-C:\Users\Joseph Rusk\Source\Repos\myfirstchallenge\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
