@@ -24,7 +24,7 @@ namespace Days_Between_Dates
             {
                 elapsedDays.Text = Calendar2.SelectedDate.Subtract(Calendar1.SelectedDate).TotalDays.ToString() + " Days";
             }
-            else elapsedDays.Text = "0 Days. Who are you trying to fool?";
+ 
         }
     }
 }
